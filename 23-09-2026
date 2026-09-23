@@ -1,0 +1,7 @@
+Sintassi e semantica del linguaggio c
+
+Editor -> programma che permette di creare e modificare file di testo
+code . -> apre l'editor direttamente sulla cartella corrente
+
+il compilatore riporta messaggi di allerta ed errore
+compilare -> gcc -o name sourceName
