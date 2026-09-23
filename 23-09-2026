@@ -5,3 +5,13 @@ code . -> apre l'editor direttamente sulla cartella corrente
 
 il compilatore riporta messaggi di allerta ed errore
 compilare -> gcc -o name sourceName
+ regole Backus-Naur Form: numero naturale
+<naturale> ::= 0|<cifra nmon nulla> [<cifra>]*
+<naturale> ::=  1|2|3...|9
+simboli terminali (0,1,2...)
+simboli non terminali (<numero>)
+regole di produzione -> teoria che definisce le caratteristiche di quel linguaggio
+direttive -> informazione che non viene tradotta in istruzioni
+[]⁺ -> 1 o più
+[]* -> 0 o più
+| -> alternativa
